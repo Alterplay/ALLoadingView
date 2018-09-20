@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'ALLoadingView'
-s.version          = '1.1.4'
+s.version          = '1.2.0'
 s.summary          = 'Manager for loading views presentation'
 
 s.description      = 'ALLoadingView is a class for displaying pop-up views to notify users that some work is in progress.'
@@ -13,6 +13,6 @@ s.source_files = 'ALLoadingView/Source/ALLoadingView.swift'
 
 s.requires_arc = true
 
-s.ios.deployment_target = '9.0'
+s.ios.deployment_target = '10.0'
 
 end
